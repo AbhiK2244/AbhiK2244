@@ -1,6 +1,6 @@
 # 💻 Hello, I'm Abhishek Kamati!
 
-I'm a passionate **Computer Science and Engineering** student and a developer.
+I'm a **Computer Science** graduate and a software developer.
 
 ## 🚀 Skills
 - **Web Development**: MERN Stack, NEXTJs, Tailwind CSS
